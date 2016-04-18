@@ -823,7 +823,7 @@ WiFi.setCredentials("My_Router", "wepistheworst", WEP);
 ```
 
 {{#if photon}}
-When the Photon used with hidden or offline networks, the security cipher is also required.
+When the Photon is used with hidden or offline networks, the security cipher is also required.
 
 ```cpp
 
